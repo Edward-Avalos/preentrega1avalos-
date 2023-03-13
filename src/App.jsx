@@ -94,6 +94,7 @@ function App() {
             <li><a class="dropdown-item" href="#">Focos</a></li>
             <li><a class="dropdown-item" href="#">Dulces</a></li>
             <li><a class="dropdown-item" href="#">Encendedor</a></li>
+            <li><a class="dropdown-item" href="#">Colonia</a></li>
           </ul>
         </li>
       </ul>
